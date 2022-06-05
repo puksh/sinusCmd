@@ -1,0 +1,2 @@
+# sinusCmd
+Sinus in commandline
